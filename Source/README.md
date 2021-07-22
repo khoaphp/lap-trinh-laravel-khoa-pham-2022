@@ -8,7 +8,7 @@ Loạt bài này sử dụng Laravel version mới nhất hiện nay, ngoài ra,
 
 #Chú ý: 
 
-> - Mã nguồn sử dụng trong video, các bạn tải về tại đây: [Source github](https://github.com/khoaphp/lap-trinh-laravel-khoa-pham-2022)
+> - Mã nguồn sử dụng trong video, các bạn tải về tại đây: [Source github](https://camo.githubusercontent.com/1547be70e35c8a825d18102693ee43e4ebc61c1f533a48d31e624168de4c580a/68747470733a2f2f6b686f617068616d2e766e2f7075626c69632f696d616765732f6c61726176656c2d6b686f617068616d2e706e67)
 
 > - Để học một cách hiệu quả, bạn nên hiểu mô hình MVC trước khi học. Nếu chưa biết gì về MVC, đừng lo lắng, bạn chỉ cần học qua loạt bài PHP MVC tại đây: [Hướng dẫn Khoa Pham MVC](https://github.com/khoaphp/php-mvc)
 
