@@ -4,7 +4,7 @@ Loạt bài này sử dụng Laravel version mới nhất hiện nay, ngoài ra,
 
 * Trung Tâm Đào Tạo Công Nghệ Khoa Phạm: Chuyên gia công và đào tạo các công nghệ lập trình Blockchain, Web & Mobile App, Website: [http://khoapham.vn](http://khoapham.vn)
 
-![Image of Khoa Pham Laravel](https://khoapham.vn/public/images/laravel-khoapham.png)
+![Image of Khoa Pham Laravel](https://camo.githubusercontent.com/1547be70e35c8a825d18102693ee43e4ebc61c1f533a48d31e624168de4c580a/68747470733a2f2f6b686f617068616d2e766e2f7075626c69632f696d616765732f6c61726176656c2d6b686f617068616d2e706e67)
 
 #Chú ý: 
 
