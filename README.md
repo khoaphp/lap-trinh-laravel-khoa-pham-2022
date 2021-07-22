@@ -8,6 +8,8 @@ Loạt bài này sử dụng Laravel version mới nhất hiện nay, ngoài ra,
 
 #Chú ý: 
 
+> - Xem full 52 video hướng dận miễn phí tại đây: [https://www.youtube.com/watch?v=NJy-LuemNww&list=PLzrVYRai0riRnmKWhDEYixPDLs3CCk2lO](https://www.youtube.com/watch?v=NJy-LuemNww&list=PLzrVYRai0riRnmKWhDEYixPDLs3CCk2lO)
+
 > - Mã nguồn sử dụng trong video, các bạn tải về tại đây: [Source github](https://khoapham.vn/public/images/laravel-khoapham.png)
 
 > - Để học một cách hiệu quả, bạn nên hiểu mô hình MVC trước khi học. Nếu chưa biết gì về MVC, đừng lo lắng, bạn chỉ cần học qua loạt bài PHP MVC tại đây: [Hướng dẫn Khoa Pham MVC](https://github.com/khoaphp/php-mvc)
