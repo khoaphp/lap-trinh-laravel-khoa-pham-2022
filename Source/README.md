@@ -4,9 +4,11 @@ Loạt bài này sử dụng Laravel version mới nhất hiện nay, ngoài ra,
 
 * Trung Tâm Đào Tạo Công Nghệ Khoa Phạm: Chuyên gia công và đào tạo các công nghệ lập trình Blockchain, Web & Mobile App, Website: [http://khoapham.vn](http://khoapham.vn)
 
-![Image of Khoa Pham Laravel](https://khoapham.vn/public/images/laravel-khoapham.png)
+![Laravel KhoaPham](./laravel-khoapham.png)
 
 #Chú ý: 
+
+> - Xem full 52 video hướng dận miễn phí tại đây: [https://www.youtube.com/watch?v=NJy-LuemNww&list=PLzrVYRai0riRnmKWhDEYixPDLs3CCk2lO](https://www.youtube.com/watch?v=NJy-LuemNww&list=PLzrVYRai0riRnmKWhDEYixPDLs3CCk2lO)
 
 > - Mã nguồn sử dụng trong video, các bạn tải về tại đây: [Source github](https://khoapham.vn/public/images/laravel-khoapham.png)
 
